@@ -1,8 +1,8 @@
-# program file
-9a[program file](FCFS_C.txt)
+# 9a program file
+[program file](FCFS_C.txt)
 
-# sample output
-9a[sample output](programoutput.png)
+# 9a sample output
+[sample output](programoutput.png)
 
-# tested output
-9a[tested output](testedoutput.png)
+# 9a tested output
+[tested output](testedoutput.png)
