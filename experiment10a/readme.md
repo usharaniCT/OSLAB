@@ -1,5 +1,5 @@
 # 10a program file
-[program file](text.txt)
+[program file](program.png.jpg)
 
 # 10a sample output
 [sample output](sampleoutput.png.jpg)
