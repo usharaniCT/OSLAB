@@ -1,5 +1,5 @@
 # 13a program file
-[program file](program.png.pjg)
+[program file](program.png.jpg)
 
 # 13a sample output
 [sample output](sampleoutput.png)
