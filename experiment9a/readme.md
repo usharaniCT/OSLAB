@@ -1,8 +1,8 @@
 # program file
-1[program file](FCFS_C.txt)
+9a[program file](FCFS_C.txt)
 
 # sample output
-1[sample output](programoutput.png)
+9a[sample output](programoutput.png)
 
 # tested output
-1[tested output](testedoutput.png)
+9a[tested output](testedoutput.png)
